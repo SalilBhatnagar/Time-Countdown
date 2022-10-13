@@ -1,0 +1,152 @@
+/* css add the duration page start */
+h1.h1-duration-heading {
+  margin-bottom: -3%;
+  position: relative;
+  bottom: 20px;
+  color: #707070;
+}
+
+  p.p-discription {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 40%;
+
+}
+
+.span-time-counter ul li {
+  list-style: none;
+  display: inline;
+  margin: 5%;
+}
+
+.div-footer-timecounter {
+  display: flex;
+  padding: 14px 0px 15px 0px;
+  position: relative;
+  left: 4%;
+  top: 100px;
+}
+
+.eKoxKk {
+  background-color: hsl(300,10%,28%);
+  color: hsl(300,80%,88%);
+  padding: 50px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px;
+}
+.fzQvAs {
+  background-color: hsl(39,50%,20%);
+  color: hsl(37,83%,54%);
+  padding: 40px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px;
+}
+
+.kxLzuJ {
+  background-color: hsl(150,80%,80%);
+  color: hsl(150,80%,20%);
+  padding: 40px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px
+}
+
+.iZtRYc {
+  background-color: hsl(195,52%,28%);
+  color: hsl(194,100%,97%);
+  padding: 40px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px
+}
+
+.btqZlz {
+  background-color: hsl(0,0%,93%);
+  color: hsl(0,1%,16%);
+  padding: 40px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px
+}
+
+.jNMmKI {
+  background-color: hsl(0,1%,38%);
+  color: hsl(0,0%,100%);
+  padding: 40px 20px;
+  text-align: center;
+  width: 21%;
+  border-radius: 28px
+}
+
+.span-time-counter {
+  font-size: 18px;
+  font-weight: 800;
+}
+span.span-count1 {
+  font-size: 15px;
+  padding: 0px 0px 0px 7px;
+  position: absolute;
+  top: 60%;
+  right: 87%;
+}
+
+span.span-count2 {
+  font-size: 15px;
+  padding: 0px 0px 0px 7px;
+  position: absolute;
+  top: 60%;
+  right: 61%;
+}
+
+span.span-count3 {
+  font-size: 15px;
+  padding: 0px 0px 0px 7px;
+  position: absolute;
+  top: 60%;
+  right: 35%;
+}
+
+span.span-count4 {
+  font-size: 15px;
+  padding: 0px 0px 0px 7px;
+  position: absolute;
+  top: 60%;
+  right:12%;
+}
+
+.selectTime {
+  width: 84%;
+  margin-bottom: 10%;
+}
+
+button#button1 {
+  padding: 5px;
+  padding: 8px 8px 8px 8px;
+}
+
+button#button2 {
+  padding: 8px 8px 8px 8px;
+}
+
+h1#dashboardcountdown {
+  margin-right: 85%;
+  font-size: 18px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: beige;
+}
+
+.div-countdown-heading {
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #555555;
+}
+
+  /* end the css duration page */
